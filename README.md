@@ -1,5 +1,9 @@
 # Excel Subscription Revenue Analytics
 
+![Subscription Revenue Analytics Dashboard](Subscriptions%20Project%20Screenshots/revenue_dashboard.png)
+
+
+
 This repository contains an Excel-based subscription analytics project built around a custom-designed dataset. The project models subscription pricing, customer behaviour, churn, revenue performance, and time-based trends, with outputs presented through dashboards, written documentation, and a presentation.
 
 All analysis, modelling, and visualisation are completed in Excel. The repository also includes supporting screenshots of key workbook views and dashboards.
