@@ -1,6 +1,7 @@
 # Excel Subscription Revenue Analytics
 
-![Subscription Revenue Analytics Dashboard](Subscriptions%20Project%20Screenshots/revenue_dashboard.png)
+![Subscription Revenue Analytics Dashboard](Subscriptions-Project-Screenshots/revenue-dashboard.png)
+
 
 
 
